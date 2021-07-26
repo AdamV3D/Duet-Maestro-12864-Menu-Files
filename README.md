@@ -1,5 +1,5 @@
 # Duet-Maestro-12864-Menu-Files
-A set of files to allow a Duet Maestro to present a basic menu system on a 12864 reprap graphic display.
+A set of files to allow a Duet 3 mini 5 + to present a basic menu system on a 12864 reprap graphic display.
 
 Installation:
 
